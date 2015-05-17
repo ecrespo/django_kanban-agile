@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ecrespo/Copy/proyectos/fabrica/django-kanban/django_kanban-agile/kanban"
+set -gx VIRTUAL_ENV "/home/ecrespo/Copy/proyectos/github/django_kanban-agile/kanban"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

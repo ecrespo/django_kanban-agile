@@ -7,7 +7,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/ecrespo/Copy/proyectos/fabrica/django-kanban/django_kanban-agile/kanban"
+setenv VIRTUAL_ENV "/home/ecrespo/Copy/proyectos/github/django_kanban-agile/kanban"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
